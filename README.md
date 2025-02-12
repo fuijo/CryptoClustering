@@ -49,7 +49,6 @@ The coin_id included in the hover information for identification.
 
 ![image](https://github.com/user-attachments/assets/b1bd0251-4458-4607-ad9a-e5abf5d42bea)
 
-![image](https://github.com/user-attachments/assets/5416d183-48c2-4969-975d-23cf31a05d82)
 
 
 4. Principal Component Analysis (PCA)
@@ -59,6 +58,8 @@ The dataset was transformed using PCA to reduce dimensionality to three principa
 The explained variance was computed, revealing that the first three principal components accounted for 90% of the variance in the dataset.
 
 A new PCA-transformed DataFrame was created with coin_id as the index.
+
+
 
 5. Finding Optimal k Using PCA Data
 
